@@ -12,9 +12,11 @@ Ce projet met en place une stack ELK (Elasticsearch, Logstash, Kibana) en enviro
 Assurez-vous d'avoir Docker et Docker Compose installés.​
 
 Clonez ce dépôt :​
-```git clone <URL_DU_DEPOT>
 ```
-```cd <NOM_DU_REPERTOIRE>
+git clone <URL_DU_DEPOT>
+```
+```
+cd <NOM_DU_REPERTOIRE>
 ```
 ```
 docker compose up -d
