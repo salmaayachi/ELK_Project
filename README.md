@@ -1,0 +1,1 @@
+This project sets up a complete ELK (Elasticsearch, Logstash, Kibana) stack using Docker Compose, enhanced with a custom log generator. It's designed for local development, testing, and learning purposes, providing a self-contained environment for log collection, processing, and visualization
