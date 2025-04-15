@@ -1,7 +1,7 @@
 # ELK Stack avec Docker Compose
 Ce projet met en place une stack ELK (Elasticsearch, Logstash, Kibana) en environnement Docker, accompagnée d'un générateur de logs personnalisé pour simuler des flux de données.
 
-##📦 Services inclus
+## 📦 Services inclus
 - Elasticsearch : moteur de recherche et d'analyse.
 - Kibana : interface web pour visualiser les données d'Elasticsearch.
 - Logstash : pipeline de traitement des logs.
