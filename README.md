@@ -13,10 +13,10 @@ Assurez-vous d'avoir Docker et Docker Compose installés.​
 
 Clonez ce dépôt :​
 ```
-git clone <URL_DU_DEPOT>
+git clone https://github.com/salmaayachi/ELK_Project.git
 ```
 ```
-cd <NOM_DU_REPERTOIRE>
+cd ELK_Project
 ```
 ```
 docker compose up -d
